@@ -1,2 +1,3 @@
 # OnlineShop
-An online shop implementation with user interface, shopping cart &amp; products.
+Just a simple online shop implementation with user interface, shopping cart &amp; products.
+
